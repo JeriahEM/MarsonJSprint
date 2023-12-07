@@ -1,3 +1,4 @@
 body{
     background-image: url(../aseets/image.png);
+    flex-wrap: nowrap;
 }
