@@ -3,7 +3,7 @@ let currentDay = document.getElementById("currentDay");
 let descript = document.getElementById("descript");
 let icon = document.getElementById("icon");
 let tempMin = document.getElementById("tempMin");
-//let tempMax = documnet.GetElementById("tempMax");
+// let tempMax = documnet.GetElementById("tempMax");
 
 
 fetch(`https://api.openweathermap.org/data/2.5/weather?q=Stockton&appid=72cec1161d6381d458f5adde5ea24073&units=imperial`)
